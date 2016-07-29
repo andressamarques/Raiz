@@ -1,0 +1,6 @@
+C:\Users\AnaJúlia\Desktop\Projetos\Calculadora\Raiz\Raiz\bin\Debug\Raiz.exe.config
+C:\Users\AnaJúlia\Desktop\Projetos\Calculadora\Raiz\Raiz\obj\Debug\Raiz.csprojResolveAssemblyReference.cache
+C:\Users\AnaJúlia\Desktop\Projetos\Calculadora\Raiz\Raiz\bin\Debug\Raiz.exe
+C:\Users\AnaJúlia\Desktop\Projetos\Calculadora\Raiz\Raiz\bin\Debug\Raiz.pdb
+C:\Users\AnaJúlia\Desktop\Projetos\Calculadora\Raiz\Raiz\obj\Debug\Raiz.exe
+C:\Users\AnaJúlia\Desktop\Projetos\Calculadora\Raiz\Raiz\obj\Debug\Raiz.pdb
